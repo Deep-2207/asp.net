@@ -34,3 +34,6 @@ F:\ASP.NET Fundamentals\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\E
 F:\ASP.NET Fundamentals\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
 F:\ASP.NET Fundamentals\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 F:\ASP.NET Fundamentals\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP.NET Fundamentals\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASP.NET Fundamentals\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASP.NET Fundamentals\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\libman.json
